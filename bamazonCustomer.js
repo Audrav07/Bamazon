@@ -85,7 +85,7 @@ var completePurchase = function(availableStock, price, productSales, productDepa
 	var grandTotal = price * selectedProductUnits;
 
 	// Updates total product sales.
-	var updatedProductSales = parseInt(productSales) + parseInt(totalPrice);
+	var updatedProductSales = parseInt(productSales) + parseInt(grandTotal);
 	
 	// Updates stock quantity on the database based on user's purchase.
 	var query = "UPDATE products SET ? WHERE ?";
