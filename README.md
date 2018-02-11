@@ -27,6 +27,7 @@ The inventory is displayed by Product Name, Department Name, Price, and Stock Qu
 	
 	
 	![](https://media.giphy.com/media/xThtai1YFD5mvQVu3S/giphy.gif)
+	![] (https://j.gifs.com/l56oY5.gif)
 
 2. node bamazonManager.js
 
@@ -39,6 +40,11 @@ This will start the Manager Module. Managers are able to:
 	* Manager is able to add more stock to any item currently in store.
 * Add New Product.
 	* Manager can add a new product to the store.
+	
+	![] (https://j.gifs.com/APOGDO.gif)
+	![] (https://j.gifs.com/MQBl8A.gif)
+	![] (https://j.gifs.com/7LJr3j.gif)
+	![] (https://j.gifs.com/xvjEG9.gif)
 
 3. node bamazonSupervisor.js
 
@@ -47,4 +53,8 @@ This will start the Supervisor Module. Supvervisors are able to:
 	* This displays a summarized table showing Department ID, Department Name, Overhead Costs, Product Sales, and Total Profits.
 * Create New Department.
 	* Supervisors can add a new department to the store.
+	
+	![] (https://j.gifs.com/Q0Lp1l.gif)
+	![] (https://j.gifs.com/4RKo81.gif)
+	![] (https://j.gifs.com/9QXw8x.gif)
 
