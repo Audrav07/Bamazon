@@ -25,7 +25,7 @@ The inventory is displayed by Product Name, Department Name, Price, and Stock Qu
 * Customers are not able to purchase items with insufficent stock.
 	* A grand total is displayed. Purchased items Stock Quantity is decreased.
 	
-	<img src="/gifs/Large Gif.gif" width="500" height="300">
+	<img src="gifs/Large Gif.gif" width="500" height="300">
 
 2. node bamazonManager.js
 
